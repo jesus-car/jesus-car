@@ -1,4 +1,17 @@
-### Hi there 👋
+## Welcome! 👋
+
+Hi there, my name is Jesus Garcia Aguilar from Peru and here begins my journey in the world of technology... I'm 27 yo
+
+**Skills**
+- Backend Java Dev / Spring boot ☕
+- Docker / kubernets
+- AWS Cloud Practicioner
+- JUnit Test
+
+**About me**
+- Systems engineer student 📚
+- Certified tech Developer studen in Digital House
+- Passionate about technology 💻
 
 <!--
 **jesus-car/jesus-car** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
