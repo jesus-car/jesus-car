@@ -10,7 +10,7 @@ Hi there, my name is Jesus Garcia Aguilar from Peru and here begins my journey i
 
 **About me**
 - Systems engineer student 📚
-- Certified tech Developer studen in Digital House
+- Certified tech Developer student in Digital House
 - Passionate about technology 💻
 
 <!--
